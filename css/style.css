@@ -10,6 +10,16 @@ body {
 	background-image: url("../img/stars.svg");
 }
 
+
+h4 {
+	font-family: OpenSans-Extrabold;
+	font-size: 24px;
+	color: #3C3C3C;
+	letter-spacing: 0;
+	text-align: center;
+	padding-top: 50px;
+}
+
 .title {
 	font-family: OpenSans-Extrabold;
 	text-align: center;
@@ -28,8 +38,26 @@ body {
 	width: 450px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 100px;
+	margin-top: 50px;
 	margin-bottom: 200px;
 	background: #FFFFFF;
 	box-shadow: 0 4px 50px 17px rgba(0,0,0,0.50);
 }
+
+.form-content {
+	padding-left: 25px;
+	padding-right: 25px;
+	/* Departure city: */
+	font-family: Georgia;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 100;
+	font-size: 18px;
+	color: #4F4F4F;
+	letter-spacing: 1.4px;
+}
+
+
+
+
+
